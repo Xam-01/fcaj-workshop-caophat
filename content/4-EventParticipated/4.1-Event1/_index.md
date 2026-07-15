@@ -45,5 +45,5 @@ What impressed me the most was that every presentation was based on real-world p
 Besides acquiring technical knowledge, I also had the opportunity to interact with industry professionals and connect with participants who share similar interests in Cloud Computing and Artificial Intelligence. The Hackathon presentations were especially inspiring, showing how teams successfully built complete products within a limited timeframe. These experiences reinforced the importance of product thinking, teamwork, continuous learning, and proactively keeping up with emerging technologies, motivating me to further develop my knowledge and skills in AWS, Generative AI, and modern software engineering.
 ### Pictures from the event
 
-![FCAJ Community Day 23/5/2026](/images/4-EventParticipated/event1.jpg)
+![FCAJ Community Day 23/5/2026]({{< baseurl >}}images/4-EventParticipated/event1.jpg)
 

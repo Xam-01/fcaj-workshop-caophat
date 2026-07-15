@@ -52,4 +52,4 @@ Bên cạnh việc tiếp thu kiến thức chuyên môn, tôi còn có cơ hộ
 
 ### Một số hình ảnh khi tham gia sự kiện
 
-![FCAJ Community Day 27/6/2026](/images/4-EventParticipated/event2.jpg)
+![FCAJ Community Day 27/6/2026]({{< baseurl >}}images/4-EventParticipated/event2.jpg)

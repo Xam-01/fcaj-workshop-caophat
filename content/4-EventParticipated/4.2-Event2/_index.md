@@ -52,4 +52,4 @@ In addition to expanding my technical knowledge, I had the opportunity to intera
 
 ### Pictures from the event
 
-![FCAJ Community Day 27/6/2026](/images/4-EventParticipated/event2.jpg)
+![FCAJ Community Day 27/6/2026]({{< baseurl >}}images/4-EventParticipated/event2.jpg)

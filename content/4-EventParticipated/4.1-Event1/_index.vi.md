@@ -45,5 +45,5 @@ AI Memory cho phép lưu trữ và tái sử dụng thông tin trong quá trình
 Bên cạnh việc tiếp thu kiến thức chuyên môn, tôi còn có cơ hội giao lưu với các chuyên gia và những người có cùng định hướng phát triển trong lĩnh vực Cloud và AI. Đặc biệt, những chia sẻ về quá trình tham gia Hackathon và xây dựng sản phẩm trong thời gian giới hạn đã truyền cho tôi nhiều cảm hứng, giúp tôi nhận thức rõ hơn về tầm quan trọng của tư duy sản phẩm, khả năng làm việc nhóm, tinh thần học hỏi liên tục và sự chủ động trong việc cập nhật công nghệ mới.
 ### Một số hình ảnh khi tham gia sự kiện
 
-![FCAJ Community Day 23/5/2026](/images/4-EventParticipated/event1.jpg)
+![FCAJ Community Day 23/5/2026]({{< baseurl >}}images/4-EventParticipated/event1.jpg)
 
