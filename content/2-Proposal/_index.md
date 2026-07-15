@@ -60,7 +60,7 @@ For now, the project will not deploy DynamoDB and Bedrock AI because a few issue
 - **AWS IAM:** Manages users, roles, and permissions access between AWS services.
 
 
-![SmartMenu Architecture](/images/2-Proposal/smartmenu_architecture.png)
+![SmartMenu Architecture]({{< baseurl >}}/images/2-Proposal/smartmenu_architecture.png)
 
 ### 5. Technical Implementation
 #### 5.1. Implementation Phases
