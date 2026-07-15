@@ -60,7 +60,7 @@ Tạm thời dự án sẽ không triển khai DynamoDB và Bedrock AI do trong 
 - **AWS IAM:** Quản lý người dùng, vai trò và phân quyền truy cập giữa các dịch vụ AWS.
 
 
-![SmartMenu Architecture](/images/2-Proposal/smartmenu_architecture.png)
+![SmartMenu Architecture]({{< baseurl >}}/images/2-Proposal/smartmenu_architecture.png)
 
 ### 5. Triển khai kỹ thuật
 #### 5.1. Các giai đoạn triển khai
