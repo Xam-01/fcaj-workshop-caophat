@@ -40,11 +40,11 @@ pre: " <b> 4.3. </b> "
 
 ### Event Experience
 
-The event brought together numerous experts in the fields of Cloud Computing and Artificial Intelligence (AI), who shared practical insights into the research, design, deployment, and operation of AI systems on the AWS platform.
+What impressed me the most during the event was Team Plan V and their Solution Architect Professional Native App project. The application was designed to assist Solutions Architects in analyzing customer requirements, recommending cloud architectures, generating AWS architecture diagrams, and estimating deployment costs based solely on natural language descriptions. I was particularly impressed by how the team combined Agentic AI with AWS services to automate tasks that traditionally require significant time, expertise, and experience from a Solutions Architect. Their presentation demonstrated that AI is not only a programming assistant but can also serve as a powerful companion for system analysis, solution design, and cloud architecture consulting.
 
-One of the highlights of the event was the live demonstrations of AI Voice Agent, AWS DevOps Agent, Amazon Q, and Model Context Protocol (MCP). Through real-world use cases, I gained a deeper understanding of how these technologies can be integrated to solve business challenges. I also learned more about system architecture, cloud security, cost optimization, and operational best practices in cloud environments.
+In addition, the presentations from OneTeam, Signal Scout, 3KA, and Six Pillars provided valuable real-world insights into how AI Native solutions can be built on AWS to address challenges across various domains, including business, intelligent monitoring, data analytics, and financial services. Each project clearly demonstrated the complete development process, from problem identification and solution architecture design to selecting appropriate AWS services, deployment, and product demonstration.
 
-In addition to expanding my technical knowledge, I had the opportunity to interact with the speakers and members of the AWS community. These discussions provided valuable insights into the latest trends in AI and Cloud Computing, as well as the skills required to meet the evolving demands of the industry. Overall, the event broadened my knowledge, strengthened my motivation to continue learning, and helped me establish a clearer career direction in the fields of Cloud Computing and Artificial Intelligence.
+Through this event, I not only expanded my knowledge of Cloud Computing, Agentic AI, and system architecture, but also gained valuable product development insights from the participating teams. Their practical experiences inspired me to continue strengthening my AWS skills and further develop my ability to design scalable cloud solutions and AI-powered applications.
 
 ### Pictures from the event
 
