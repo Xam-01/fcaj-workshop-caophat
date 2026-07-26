@@ -28,3 +28,11 @@ Trong quá trình thực tập, em đã tham gia 2 events, với mỗi event là
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự
 
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** FCAJ & Agentic AI Build Week
+
+&emsp;**Thời gian:** 25/07/2026
+
+&emsp;**Địa điểm:** Tầng 26, Tòa nhà Bitexco Financial Tower, Phường Sài Gòn, TP. Hồ Chí Minh
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự
